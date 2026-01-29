@@ -127,7 +127,7 @@ Mỗi vật thể được biểu diễn bởi:
 
 ---
 
-## 📜 Kết luận
+## Kết luận
 Dự án cho thấy khả năng xây dựng một **hệ thống thị giác hiệu quả cho robot tay máy** trong môi trường ánh sáng phức tạp, kết hợp giữa **Deep Learning, RGB-D và xử lý ảnh truyền thống**.
 
-> ⚠️ Dự án phục vụ mục đích học tập và nghiên cứu, chưa thay thế hệ thống robot công nghiệp hoàn chỉnh.
+> Dự án phục vụ mục đích học tập và nghiên cứu, chưa thay thế hệ thống robot công nghiệp hoàn chỉnh.
